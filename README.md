@@ -2,7 +2,7 @@
 
 implemented using Django Rest Framework
 
-#Outline:
+# Outline:
 
 - Setup models and admin
 - Simple API with pure Django
